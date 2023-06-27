@@ -1,0 +1,13 @@
+docker-compose up --build
+
+
+git remote add origin https://gitlab.com/thduik/cicd-auto-deploy.git
+
+
+docker exec dabdd9a2c9c9 cat /etc/passwd
+
+docker exec 4dd9240cbc09 id -u
+
+
+
+docker exec -u root dabdd9a2c9c9 ls /tmp/TestUnix
