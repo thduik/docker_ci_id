@@ -10,4 +10,4 @@ docker exec 4dd9240cbc09 id -u
 
 
 
-docker exec -u root dabdd9a2c9c9 ls /tmp/TestUnix
+docker exec -u root 4dd9240cbc09 id -u
